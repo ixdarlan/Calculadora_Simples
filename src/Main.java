@@ -35,6 +35,9 @@ public class Main {
                 break;
 
             case 2:
+                System.out.println(numero1+" - "+numero2);
+
+                resultado = numero1 - numero2;
                 break;
 
             case 3:
